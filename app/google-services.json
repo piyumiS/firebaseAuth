@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "500679594653",
+    "firebase_url": "https://fir-authentication-e1969.firebaseio.com",
+    "project_id": "fir-authentication-e1969",
+    "storage_bucket": "fir-authentication-e1969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500679594653:android:4bcb92888c68c31d",
+        "android_client_info": {
+          "package_name": "com.example.piyumi.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500679594653-5mp28tg5th8a4specqersqpvucnb6j65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA82xok3f2ZAS6EtztktSsN69kCQH_m1DU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
